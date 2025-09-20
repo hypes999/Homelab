@@ -26,8 +26,9 @@ Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal
    <img width="1000" height="300" alt="Captura de ecrã 2025-09-20 124146" src="https://github.com/user-attachments/assets/44563947-1430-449d-929f-f4e918d640a0" />
 
 4. Criar pen bootável com o balenaEtcher
-   <img width="1000" height="300" alt="imagem" src="https://github.com/user-attachments/assets/2e7c188e-c2a9-4b2d-adc4-1fa88049cc79" />
-   <img width="1000" height="300" alt="imagem" src="https://github.com/user-attachments/assets/2d98ca61-1a47-4397-aca2-828b4c80b5de" />
+   <img width="1000" height="400" alt="imagem" src="https://github.com/user-attachments/assets/2e7c188e-c2a9-4b2d-adc4-1fa88049cc79" />
+   <img width="1000" height="400" alt="imagem" src="https://github.com/user-attachments/assets/2d98ca61-1a47-4397-aca2-828b4c80b5de" />
+   <img width="1000" height="400" alt="imagem" src="https://github.com/user-attachments/assets/f8d322f0-93b8-45cf-803a-5b20627d5b22" />
 
 
 5. Instalar Ubuntu no host físico (disco dedicado)
