@@ -17,14 +17,11 @@ Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal
 
 ## 🔧 Preparação
 
-### Backup da VM Windows
-
-* Se já existe em VMware/VirtualBox → copiar pasta da VM (`.vmdk`, `.vmx`, `.vdi`, `.vbox`)
-* Se máquina física → usar **disk2vhd** (Sysinternals) para gerar `.vhdx`
-
 ### Instalação do Ubuntu
 
 1. Download do **Ubuntu 22.04 LTS ISO**
+<img width="1725" height="331" alt="imagem" src="https://github.com/user-attachments/assets/a48f363b-f85b-4cb0-9dc1-65010b6e7c85" />
+
 2. Criar pen bootável com Rufus ou balenaEtcher
 3. Instalar Ubuntu no host físico (disco dedicado)
 
