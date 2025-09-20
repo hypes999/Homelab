@@ -20,13 +20,15 @@ Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal
 ### Instalação do Ubuntu
 
 1. Download do **Ubuntu 24.04.3 LTS ISO**
-<img width="1725" height="331" alt="imagem" src="https://github.com/user-attachments/assets/a48f363b-f85b-4cb0-9dc1-65010b6e7c85" />
+   <img width="1725" height="331" alt="imagem" src="https://github.com/user-attachments/assets/a48f363b-f85b-4cb0-9dc1-65010b6e7c85" />
 
-2. Confirmar o SHA-256 da ISO para ver se o ficheiro está íntegro
-<img width="1180" height="322" alt="Captura de ecrã 2025-09-20 124146" src="https://github.com/user-attachments/assets/44563947-1430-449d-929f-f4e918d640a0" />
+3. Confirmar o SHA-256 da ISO para ver se o ficheiro está íntegro
+   <img width="1180" height="322" alt="Captura de ecrã 2025-09-20 124146" src="https://github.com/user-attachments/assets/44563947-1430-449d-929f-f4e918d640a0" />
 
-3. Criar pen bootável com Rufus ou balenaEtcher
-4. Instalar Ubuntu no host físico (disco dedicado)
+4. Criar pen bootável com o balenaEtcher
+   <img width="1013" height="464" alt="imagem" src="https://github.com/user-attachments/assets/2e7c188e-c2a9-4b2d-adc4-1fa88049cc79" />
+
+5. Instalar Ubuntu no host físico (disco dedicado)
 
 ---
 
