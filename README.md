@@ -8,7 +8,7 @@ Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal
 
 ## 🗂 Arquitetura Planeada
 
-* **Host (bare metal):** Ubuntu 22.04 LTS
+* **Host (bare metal):** Ubuntu 24.04.3 LTS
 * **Hipervisor:** KVM/QEMU (Virt-Manager) ou VMware Workstation Player
 * **VM Windows 10:** com XAMPP e site em execução
 * **Rede:** configuração NAT/Bridge para acesso local e remoto
@@ -19,7 +19,7 @@ Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal
 
 ### Instalação do Ubuntu
 
-1. Download do **Ubuntu 22.04 LTS ISO**
+1. Download do **Ubuntu 24.04.3 LTS ISO**
 <img width="1725" height="331" alt="imagem" src="https://github.com/user-attachments/assets/a48f363b-f85b-4cb0-9dc1-65010b6e7c85" />
 
 2. Criar pen bootável com Rufus ou balenaEtcher
