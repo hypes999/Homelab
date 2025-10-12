@@ -1,17 +1,17 @@
 # Homelab com Ubuntu + VM Windows (XAMPP)
 
-## 📌 Objetivo
+## Objetivo
 
 Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal e executando uma máquina virtual Windows com XAMPP para alojar um site. Este projeto serve para prática em redes, virtualização e administração de sistemas.
 
 ---
 
-## 🗂 Arquitetura Planeada
+## Arquitetura Planeada
 
 * **Host (bare metal):** Ubuntu 24.04.3 LTS
-* **Hipervisor:** KVM/QEMU (Virt-Manager) ou VMware Workstation Player
+* **Hipervisor:** VMware Workstation Player
 * **VM Windows 10:** com XAMPP e site em execução
-* **Rede:** configuração NAT/Bridge para acesso local e remoto
+* **Rede:** configuração Bridge para acesso local e remoto
 
 ---
 
@@ -19,7 +19,7 @@ Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal
 
 ### Instalação do Ubuntu
 
-1. Download do **Ubuntu 24.04.3 LTS ISO**
+1. Download do **Ubuntu 22.04.4 LTS ISO**
    <img width="1000" height="300" alt="imagem" src="https://github.com/user-attachments/assets/a48f363b-f85b-4cb0-9dc1-65010b6e7c85" />
 
 3. Confirmar o SHA-256 da ISO para ver se o ficheiro está íntegro
@@ -39,12 +39,7 @@ Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal
 
 ### Instalação do Hipervisor
 
-* **Opção A (recomendada):**
-
-  ```bash
-  sudo apt update && sudo apt install qemu-kvm libvirt-daemon-system virt-manager -y
-  ```
-* **Opção B:** instalar VMware Workstation Player
+Instalar VMware Workstation Player
 
 ### Importar a VM Windows
 
@@ -63,7 +58,7 @@ Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal
 
 ---
 
-## ✅ Resultados
+## Resultados
 
 * VM Windows funcional no host Ubuntu
 * Site acessível via rede
@@ -71,7 +66,7 @@ Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal
 
 ---
 
-## 🚀 Próximos Passos
+## Próximos Passos
 
 * Adicionar **pfSense** como firewall virtual
 * Implementar **VPN (WireGuard/OpenVPN)**
@@ -80,7 +75,7 @@ Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal
 
 ---
 
-## 📖 Notas de Documentação
+## Notas de Documentação
 
 * Este documento será atualizado conforme o progresso
 * Screenshots, outputs de comandos e diagramas devem ser adicionados
