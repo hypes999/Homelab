@@ -6,9 +6,9 @@ Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal
 
 ---
 
-## Arquitetura Planeada
+## Arquitetura
 
-* **Host (bare metal):** Ubuntu 24.04.3 LTS
+* **Host (bare metal):** Ubuntu 22.04.5 LTS
 * **Hipervisor:** VMware Workstation Player
 * **VM Windows 10:** com XAMPP e site em execução
 * **Rede:** configuração Bridge para acesso local e remoto
@@ -20,18 +20,18 @@ Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal
 ### Instalação do Ubuntu
 
 1. Download do **Ubuntu 22.04.4 LTS ISO**
-   <img width="1000" height="300" alt="imagem" src="https://github.com/user-attachments/assets/a48f363b-f85b-4cb0-9dc1-65010b6e7c85" />
+  <img width="1266" height="76" alt="imagem" src="https://github.com/user-attachments/assets/98cf3e07-023e-4d8d-89f5-09b4606a81f1" />
 
-3. Confirmar o SHA-256 da ISO para ver se o ficheiro está íntegro
-   <img width="1000" height="300" alt="Captura de ecrã 2025-09-20 124146" src="https://github.com/user-attachments/assets/44563947-1430-449d-929f-f4e918d640a0" />
+2. Confirmar o SHA-256 da ISO para ver se o ficheiro está íntegro
+   <img width="1518" height="193" alt="imagem" src="https://github.com/user-attachments/assets/07e66fad-0748-42bc-99b9-fd55371be957" />
 
-4. Criar pen bootável com o balenaEtcher
+3. Criar pen bootável com o balenaEtcher
    <img width="1000" height="400" alt="imagem" src="https://github.com/user-attachments/assets/2e7c188e-c2a9-4b2d-adc4-1fa88049cc79" />
    <img width="1000" height="400" alt="imagem" src="https://github.com/user-attachments/assets/2d98ca61-1a47-4397-aca2-828b4c80b5de" />
    <img width="1000" height="400" alt="imagem" src="https://github.com/user-attachments/assets/f8d322f0-93b8-45cf-803a-5b20627d5b22" />
 
 
-5. Instalar Ubuntu no host físico (disco dedicado)
+4. Instalar Ubuntu no host físico (disco dedicado)
 
 ---
 
