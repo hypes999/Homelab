@@ -80,6 +80,19 @@ Préviamente já criada e configurada
 
 ---
 
+## Tailscale
+
+* Instalação e Inicialização
+  <img width="634" height="87" alt="imagem" src="https://github.com/user-attachments/assets/7eb0968f-0333-49d1-9f9e-fe452bfdf3fd" />
+  <img width="638" height="92" alt="imagem" src="https://github.com/user-attachments/assets/b8fe2bc8-6312-4401-a031-99ded964d274" />
+  <img width="687" height="458" alt="imagem" src="https://github.com/user-attachments/assets/c2a2ddea-fd9d-4fdf-8c3d-3d29b94cca5b" />
+* Ativar o modo "exit node" para IP público (https://www.youtube.com/watch?v=Ad7D2pkFNdA)
+  <img width="601" height="78" alt="imagem" src="https://github.com/user-attachments/assets/463d32f6-9da7-4394-90fb-f5263edf5a58" />
+  <img width="1065" height="510" alt="imagem" src="https://github.com/user-attachments/assets/64ffef65-f1c4-4685-b6e3-c1351530ce7c" />
+  <img width="487" height="454" alt="imagem" src="https://github.com/user-attachments/assets/d84eebbd-f9cf-41db-9e09-9d6c8e1efa3b" />
+
+
+
 ## Notas de Documentação
 
 * Este documento será atualizado conforme o progresso
