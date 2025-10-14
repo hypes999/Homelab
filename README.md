@@ -86,10 +86,15 @@ Préviamente já criada e configurada
   <img width="634" height="87" alt="imagem" src="https://github.com/user-attachments/assets/7eb0968f-0333-49d1-9f9e-fe452bfdf3fd" />
   <img width="638" height="92" alt="imagem" src="https://github.com/user-attachments/assets/b8fe2bc8-6312-4401-a031-99ded964d274" />
   <img width="687" height="458" alt="imagem" src="https://github.com/user-attachments/assets/c2a2ddea-fd9d-4fdf-8c3d-3d29b94cca5b" />
+
 * Ativar o modo "exit node" para IP público (https://www.youtube.com/watch?v=Ad7D2pkFNdA)
   <img width="601" height="78" alt="imagem" src="https://github.com/user-attachments/assets/463d32f6-9da7-4394-90fb-f5263edf5a58" />
   <img width="1065" height="510" alt="imagem" src="https://github.com/user-attachments/assets/64ffef65-f1c4-4685-b6e3-c1351530ce7c" />
   <img width="487" height="454" alt="imagem" src="https://github.com/user-attachments/assets/d84eebbd-f9cf-41db-9e09-9d6c8e1efa3b" />
+
+* Permitir acesso à LAN local
+  <img width="1124" height="210" alt="imagem" src="https://github.com/user-attachments/assets/0e6c6d5f-0116-4e1c-a889-29c3b8e3b09d" />
+  <img width="493" height="669" alt="imagem" src="https://github.com/user-attachments/assets/63ec8be6-84b2-4b5a-9a30-fc2739760b5d" />
 
 
 
