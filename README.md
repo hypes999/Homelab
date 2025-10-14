@@ -51,7 +51,6 @@ Instalar VMware Workstation Player
 ### Configuração de Rede
 
 * Definir **Bridge** se precisar acesso direto na LAN
-* Definir **NAT** se bastar acesso com partilha de internet
 
 ### Testes
 
@@ -70,9 +69,7 @@ Instalar VMware Workstation Player
 
 ## Próximos Passos
 
-* Adicionar **pfSense** como firewall virtual
-* Implementar **VPN (WireGuard/OpenVPN)**
-* Integrar ferramentas de monitorização (Zabbix, Grafana, Prometheus)
+* Implementar **VPN**
 * Documentar rede interna e segurança
 
 ---
