@@ -40,22 +40,28 @@ Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal
 ## ⚙️ Execução
 
 ### Instalação do Hipervisor
+Instalar VMware Workstation Player 
 
-Instalar VMware Workstation Player
+### Importar a Máquina
 
-### Importar a VM Windows
+Préviamente já criada e configurada
 
-* No Virt-Manager: *Import existing disk image* → selecionar `.vmdk` ou `.vhdx`
-* No VMware: *Open Virtual Machine* → selecionar `.vmx`
+<img width="1037" height="844" alt="imagem" src="https://github.com/user-attachments/assets/4df5027c-61b4-443f-9896-fe961bb1524e" />
 
-### Configuração de Rede
+* Definir **Bridge** para acesso direto na LAN
 
-* Definir **Bridge** se precisar acesso direto na LAN
+<img width="794" height="390" alt="imagem" src="https://github.com/user-attachments/assets/324c7842-9fca-41a6-83db-ae1dc641568b" />
 
 ### Testes
 
 * Arrancar VM Windows
-* Verificar site no XAMPP → `http://<ip-da-vm>`
+* Verificar IP's
+  <img width="1635" height="536" alt="imagem" src="https://github.com/user-attachments/assets/86ba814b-a3e9-41e2-879b-4f77b3080ff2" />
+
+* Start dos serviços essenciais: Apache e MySQL
+  <img width="629" height="441" alt="imagem" src="https://github.com/user-attachments/assets/a4563017-d901-41d1-a835-4da176d39cb5" />
+* Verificar Cloudflare
+  <img width="1919" height="550" alt="imagem" src="https://github.com/user-attachments/assets/cfd34483-5dd5-472a-ab77-f1124294e8f6" />
 
 ---
 
