@@ -32,6 +32,8 @@ Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal
 
 
 4. Instalar Ubuntu no host físico (disco dedicado)
+  <img width="1757" height="986" alt="imagem" src="https://github.com/user-attachments/assets/fb93be55-887f-4da1-b5e0-47a3454b1b6d" />
+
 
 ---
 
