@@ -96,7 +96,8 @@ Préviamente já criada e configurada
   <img width="1124" height="210" alt="imagem" src="https://github.com/user-attachments/assets/0e6c6d5f-0116-4e1c-a889-29c3b8e3b09d" />
   <img width="493" height="669" alt="imagem" src="https://github.com/user-attachments/assets/63ec8be6-84b2-4b5a-9a30-fc2739760b5d" />
 
-
+* Ativar o IP Forwarding
+  
 
 ## Notas de Documentação
 
