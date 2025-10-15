@@ -101,6 +101,14 @@ Préviamente já criada e configurada
   <img width="1122" height="394" alt="imagem" src="https://github.com/user-attachments/assets/4b5bea9c-3ec2-4e8f-8c29-9bf3e855455b" />
   <img width="655" height="121" alt="imagem" src="https://github.com/user-attachments/assets/e6d7e640-8319-4ede-bc29-6ecd249b9257" />
   <img width="516" height="37" alt="imagem" src="https://github.com/user-attachments/assets/7b95dd40-bba0-48d0-be81-07ea12d7eca9" />
+  <img width="739" height="282" alt="imagem" src="https://github.com/user-attachments/assets/1e9ca96c-323a-48dd-ae59-1143a9943db7" />
+  <img width="690" height="104" alt="imagem" src="https://github.com/user-attachments/assets/a1449ff4-634a-4db8-a3e9-173584b71e7b" />
+
+* Desativação do Generic Receive Offload(GRO) apenas para packets forwarders(o nosso host que encaminha tráfego)  
+  <img width="650" height="162" alt="imagem" src="https://github.com/user-attachments/assets/9dce7795-204e-41b1-a580-d71397f4c25b" />
+  <img width="767" height="265" alt="imagem" src="https://github.com/user-attachments/assets/fa123dfa-5480-4afc-8648-702908d10168" />
+  <img width="1036" height="110" alt="imagem" src="https://github.com/user-attachments/assets/369570c4-f52d-4c59-a59d-68b8475135f8" />
+
 
 
 ## Notas de Documentação
