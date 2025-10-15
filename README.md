@@ -104,11 +104,16 @@ Préviamente já criada e configurada
   <img width="739" height="282" alt="imagem" src="https://github.com/user-attachments/assets/1e9ca96c-323a-48dd-ae59-1143a9943db7" />
   <img width="690" height="104" alt="imagem" src="https://github.com/user-attachments/assets/a1449ff4-634a-4db8-a3e9-173584b71e7b" />
 
-* Desativação do Generic Receive Offload(GRO) apenas para packets forwarders(o nosso host que encaminha tráfego)  
+* Desativar o Generic Receive Offload(GRO) apenas para packets forwarders(o nosso host que encaminha tráfego)  
   <img width="650" height="162" alt="imagem" src="https://github.com/user-attachments/assets/9dce7795-204e-41b1-a580-d71397f4c25b" />
   <img width="767" height="265" alt="imagem" src="https://github.com/user-attachments/assets/fa123dfa-5480-4afc-8648-702908d10168" />
   <img width="1036" height="110" alt="imagem" src="https://github.com/user-attachments/assets/369570c4-f52d-4c59-a59d-68b8475135f8" />
 
+* Desativar a Expiração da chave
+  <img width="474" height="526" alt="imagem" src="https://github.com/user-attachments/assets/eb51acde-2eea-4d16-b9a0-e3853fe697b7" />
+  <img width="1087" height="549" alt="imagem" src="https://github.com/user-attachments/assets/c4bfb714-26a3-4e35-b659-efc611392f0a" />
+  <img width="1087" height="549" alt="imagem" src="https://github.com/user-attachments/assets/adaf815a-3c00-4804-860b-9e7f21635267" />
+  <img width="444" height="128" alt="imagem" src="https://github.com/user-attachments/assets/ee99504a-fe94-484b-b9b9-98014df9629d" />
 
 
 ## Notas de Documentação
