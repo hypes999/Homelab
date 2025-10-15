@@ -97,7 +97,11 @@ Préviamente já criada e configurada
   <img width="493" height="669" alt="imagem" src="https://github.com/user-attachments/assets/63ec8be6-84b2-4b5a-9a30-fc2739760b5d" />
 
 * Ativar o IP Forwarding
-  
+  <img width="653" height="89" alt="imagem" src="https://github.com/user-attachments/assets/117e254f-ef84-44b9-9037-4a64b235a59d" />
+  <img width="1122" height="394" alt="imagem" src="https://github.com/user-attachments/assets/4b5bea9c-3ec2-4e8f-8c29-9bf3e855455b" />
+  <img width="655" height="121" alt="imagem" src="https://github.com/user-attachments/assets/e6d7e640-8319-4ede-bc29-6ecd249b9257" />
+  <img width="516" height="37" alt="imagem" src="https://github.com/user-attachments/assets/7b95dd40-bba0-48d0-be81-07ea12d7eca9" />
+
 
 ## Notas de Documentação
 
