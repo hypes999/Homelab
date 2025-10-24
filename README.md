@@ -122,6 +122,12 @@ Préviamente já criada e configurada.
 ![Expiração Chave 3](https://github.com/user-attachments/assets/adaf815a-3c00-4804-860b-9e7f21635267)  
 ![Expiração Chave 4](https://github.com/user-attachments/assets/ee99504a-fe94-484b-b9b9-98014df9629d)
 
+## FileGator
+
+### Instalação do nginx
+<img width="809" height="332" alt="imagem" src="https://github.com/user-attachments/assets/061e270c-edcf-45e5-8c2c-039d2a35b0a7" />
+
+
 ---
 
 ## Notas de Documentação
