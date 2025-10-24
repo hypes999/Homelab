@@ -126,6 +126,7 @@ Préviamente já criada e configurada.
 
 ### Instalação do nginx
 <img width="809" height="332" alt="imagem" src="https://github.com/user-attachments/assets/061e270c-edcf-45e5-8c2c-039d2a35b0a7" />
+<img width="724" height="292" alt="imagem" src="https://github.com/user-attachments/assets/93dbf372-6944-459c-bac8-31148a656906" />
 
 
 ---
