@@ -122,11 +122,10 @@ Préviamente já criada e configurada.
 ![Expiração Chave 3](https://github.com/user-attachments/assets/adaf815a-3c00-4804-860b-9e7f21635267)  
 ![Expiração Chave 4](https://github.com/user-attachments/assets/ee99504a-fe94-484b-b9b9-98014df9629d)
 
-## FileGator
+## NextCloud
 
-### Instalação do nginx
-<img width="809" height="332" alt="imagem" src="https://github.com/user-attachments/assets/061e270c-edcf-45e5-8c2c-039d2a35b0a7" />
-<img width="724" height="292" alt="imagem" src="https://github.com/user-attachments/assets/93dbf372-6944-459c-bac8-31148a656906" />
+### Instalação
+<img width="1913" height="966" alt="imagem" src="https://github.com/user-attachments/assets/28ba3ec0-d2f3-44b0-81a7-349eadebfb08" />
 
 
 ---
