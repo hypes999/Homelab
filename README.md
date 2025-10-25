@@ -130,6 +130,7 @@ Préviamente já criada e configurada.
 <img width="959" height="361" alt="imagem" src="https://github.com/user-attachments/assets/14d9daa9-e441-4d58-afc0-07c2bf8cfc89" />
 <img width="958" height="404" alt="imagem" src="https://github.com/user-attachments/assets/b323d791-62ac-4502-866a-54ca769b8600" />
 <img width="959" height="136" alt="imagem" src="https://github.com/user-attachments/assets/ae72daf4-995a-4a3a-9108-1df161dac9a0" />
+<img width="1289" height="960" alt="imagem" src="https://github.com/user-attachments/assets/12166c3e-7894-46bb-a243-0295f1403339" />
 
 
 
