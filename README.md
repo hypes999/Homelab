@@ -135,6 +135,9 @@ Préviamente já criada e configurada.
 ### HTTPS
 <img width="961" height="420" alt="imagem" src="https://github.com/user-attachments/assets/4c67dc41-cd68-499c-8f16-313465ef4db5" />
 
+### DNS Foward
+<img width="958" height="259" alt="imagem" src="https://github.com/user-attachments/assets/61d2ed34-d4f8-4ad7-afd0-8c01fa849d3d" />
+
 
 ---
 
