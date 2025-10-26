@@ -132,6 +132,8 @@ Préviamente já criada e configurada.
 <img width="959" height="136" alt="imagem" src="https://github.com/user-attachments/assets/ae72daf4-995a-4a3a-9108-1df161dac9a0" />
 <img width="1289" height="960" alt="imagem" src="https://github.com/user-attachments/assets/12166c3e-7894-46bb-a243-0295f1403339" />
 
+### HTTPS
+<img width="961" height="420" alt="imagem" src="https://github.com/user-attachments/assets/4c67dc41-cd68-499c-8f16-313465ef4db5" />
 
 
 ---
