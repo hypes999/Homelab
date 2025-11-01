@@ -138,6 +138,10 @@ Préviamente já criada e configurada.
 ### DNS Foward
 <img width="958" height="259" alt="imagem" src="https://github.com/user-attachments/assets/61d2ed34-d4f8-4ad7-afd0-8c01fa849d3d" />
 
+### Fail2Ban + UFW
+<img width="953" height="749" alt="imagem" src="https://github.com/user-attachments/assets/b2058966-ef2b-48d1-9cf8-da23a815eab8" />
+
+
 
 ---
 
