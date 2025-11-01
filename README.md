@@ -139,7 +139,8 @@ Préviamente já criada e configurada.
 <img width="958" height="259" alt="imagem" src="https://github.com/user-attachments/assets/61d2ed34-d4f8-4ad7-afd0-8c01fa849d3d" />
 
 ### Fail2Ban + UFW
-<img width="953" height="749" alt="imagem" src="https://github.com/user-attachments/assets/b2058966-ef2b-48d1-9cf8-da23a815eab8" />
+<img width="867" height="740" alt="imagem" src="https://github.com/user-attachments/assets/4d831c1b-87de-4ad6-a400-0adc2a51a0fb" />
+
 
 
 
