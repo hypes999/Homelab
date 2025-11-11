@@ -8,7 +8,7 @@ Criar um ambiente de homelab no Proxmox VE, utilizando o sistema como host princ
 
 ## Arquitetura
 
-- **Host (bare metal):** Proxmox VE 9.0.3
+- **Host (bare metal):** Proxmox VE 9.0.1
 - **Hipervisor:** VMware Workstation Player
 - **VM Windows 10:** com XAMPP e site em execução
 - **Rede:** configuração Bridge para acesso local e remoto
