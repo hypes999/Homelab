@@ -46,6 +46,10 @@ Criar um ambiente de homelab no Proxmox VE, utilizando o sistema como host princ
    <img width="1005" height="475" alt="imagem" src="https://github.com/user-attachments/assets/1e511ab6-c539-4cbf-94c0-8cb1ce4fb54e" />
    <img width="592" height="47" alt="imagem" src="https://github.com/user-attachments/assets/b40cb40b-3923-456b-ae39-4417a74438e8" />
    <img width="1919" height="793" alt="imagem" src="https://github.com/user-attachments/assets/1e57586e-be58-44d8-9028-116f83cb5d92" />
+4. **Configuração e Instalação do Tailscale**
+   <img width="764" height="42" alt="imagem" src="https://github.com/user-attachments/assets/aaee3a30-81ab-4772-9706-0d855bb3a105" />
+   <img width="1360" height="275" alt="imagem" src="https://github.com/user-attachments/assets/bb1ebe0f-7aae-49bb-9788-3a80e13cf5cf" />
+   <img width="621" height="123" alt="imagem" src="https://github.com/user-attachments/assets/2db70e23-a96c-4910-9b63-c2f830dcd3e1" />
 
 
 
