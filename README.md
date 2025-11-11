@@ -1,14 +1,14 @@
-# Homelab com Ubuntu + VM Windows (XAMPP)
+# Homelab Proxmox VE
 
 ## Objetivo
 
-Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal e executando uma máquina virtual Windows com XAMPP para alojar um site. Este projeto serve para prática em redes, virtualização e administração de sistemas.
+Criar um ambiente de homelab no Proxmox VE, utilizando o sistema como host principal e executando vários serviços. Este projeto serve para prática em redes, virtualização e administração de sistemas.
 
 ---
 
 ## Arquitetura
 
-- **Host (bare metal):** Ubuntu 22.04.5 LTS
+- **Host (bare metal):** Proxmox VE 9.0.3
 - **Hipervisor:** VMware Workstation Player
 - **VM Windows 10:** com XAMPP e site em execução
 - **Rede:** configuração Bridge para acesso local e remoto
@@ -17,21 +17,19 @@ Criar um ambiente de homelab em Ubuntu, utilizando o sistema como host principal
 
 ## 🔧 Preparação
 
-### Instalação do Ubuntu
+### Instalação do Proxmox VE
 
-1. **Download do Ubuntu 22.04.4 LTS ISO**  
-  ![Download Ubuntu](https://github.com/user-attachments/assets/98cf3e07-023e-4d8d-89f5-09b4606a81f1)
-
-2. **Confirmar o SHA-256 da ISO**  
-  ![SHA-256 Ubuntu](https://github.com/user-attachments/assets/07e66fad-0748-42bc-99b9-fd55371be957)
+1. **Download da ISO**  
+  <img width="1680" height="265" alt="imagem" src="https://github.com/user-attachments/assets/c1b23f68-d4cb-434a-ab5a-30e3da07cc7c" />
+  <img width="862" height="220" alt="imagem" src="https://github.com/user-attachments/assets/8ab5c5c7-c5d0-4fb2-83fd-e2547d118a23" />
 
 3. **Criar pen bootável com o balenaEtcher**  
-  ![balenaEtcher 1](https://github.com/user-attachments/assets/2e7c188e-c2a9-4b2d-adc4-1fa88049cc79)  
-  ![balenaEtcher 2](https://github.com/user-attachments/assets/2d98ca61-1a47-4397-aca2-828b4c80b5de)  
-  ![balenaEtcher 3](https://github.com/user-attachments/assets/f8d322f0-93b8-45cf-803a-5b20627d5b22)
+  <img width="1018" height="466" alt="imagem" src="https://github.com/user-attachments/assets/229e2a06-69bc-4507-9e8d-ba2226a68bdc" />
 
-4. **Instalar Ubuntu no host físico (disco dedicado)**  
-  ![Instalação Ubuntu](https://github.com/user-attachments/assets/fb93be55-887f-4da1-b5e0-47a3454b1b6d)
+
+4. **Instalação**  
+   <img width="1919" height="786" alt="imagem" src="https://github.com/user-attachments/assets/36978951-185b-47dd-89a6-d2fbfed64795" />
+
 
 ---
 
