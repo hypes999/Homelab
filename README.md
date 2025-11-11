@@ -34,7 +34,7 @@ Criar um ambiente de homelab no Proxmox VE, utilizando o sistema como host princ
 1. **Adicionar Debian 12 ao template de containers**
    <img width="1919" height="771" alt="imagem" src="https://github.com/user-attachments/assets/50a2d43d-9fb2-46d0-9878-68a49f6ca05e" />
 2. **Download do OS**
-   <img width="1013" height="319" alt="imagem" src="https://github.com/user-attachments/assets/4453ad49-7694-4996-8917-94a5f6c1cf3c" />
+   <img width="1024" height="455" alt="imagem" src="https://github.com/user-attachments/assets/c97fe2d7-9fb2-4553-82bb-c6091a356d9f" />
   
 
 
