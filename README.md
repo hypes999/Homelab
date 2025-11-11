@@ -35,7 +35,14 @@ Criar um ambiente de homelab no Proxmox VE, utilizando o sistema como host princ
    <img width="1919" height="771" alt="imagem" src="https://github.com/user-attachments/assets/50a2d43d-9fb2-46d0-9878-68a49f6ca05e" />
 2. **Download do OS**
    <img width="1024" height="455" alt="imagem" src="https://github.com/user-attachments/assets/c97fe2d7-9fb2-4553-82bb-c6091a356d9f" />
-  
+3. **Criação do container LXC**
+   <img width="1919" height="817" alt="imagem" src="https://github.com/user-attachments/assets/ae0c3640-b0de-4245-93e2-fc93f0437264" />
+   <img width="915" height="274" alt="imagem" src="https://github.com/user-attachments/assets/004f559e-628a-4bd4-bbed-2c359df674c6" />
+   <img width="915" height="687" alt="imagem" src="https://github.com/user-attachments/assets/8de1b981-61f4-49b6-b480-10156ddb068a" />
+   <img width="920" height="162" alt="imagem" src="https://github.com/user-attachments/assets/d25dc7e6-5e65-4b54-bba7-6dbc54bb0aac" />
+   <img width="913" height="191" alt="imagem" src="https://github.com/user-attachments/assets/44574b6f-ffd0-4055-9d19-1ece5ab95ddf" />
+   <img width="914" height="686" alt="imagem" src="https://github.com/user-attachments/assets/8316e03c-e10b-4d5a-b4f3-9b020fe42d41" />
+
 
 
 ---
