@@ -53,6 +53,9 @@ Criar um ambiente de homelab no Proxmox VE, utilizando o sistema como host princ
 
 5. **IP Forwarding**
    <img width="1351" height="316" alt="imagem" src="https://github.com/user-attachments/assets/ac8ec45a-2293-4e9a-9931-d77cc5c8ed3b" />
+6. **Exit Node**
+   <img width="1336" height="96" alt="imagem" src="https://github.com/user-attachments/assets/5ce3d0b1-5937-4a86-a09a-09cbb6af8a50" />
+   <img width="658" height="547" alt="imagem" src="https://github.com/user-attachments/assets/cd8d9fe2-7f38-47f1-922d-8e828d4c7bce" />
 
 
 ---
