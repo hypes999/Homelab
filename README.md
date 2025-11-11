@@ -15,20 +15,27 @@ Criar um ambiente de homelab no Proxmox VE, utilizando o sistema como host princ
 
 ---
 
-## 🔧 Preparação
+## Preparação
 
 ### Instalação do Proxmox VE
 
-1. **Download da ISO**  
-  <img width="1680" height="265" alt="imagem" src="https://github.com/user-attachments/assets/c1b23f68-d4cb-434a-ab5a-30e3da07cc7c" />
-  <img width="862" height="220" alt="imagem" src="https://github.com/user-attachments/assets/8ab5c5c7-c5d0-4fb2-83fd-e2547d118a23" />
+1. **Download da ISO**
+   <img width="1680" height="265" alt="imagem" src="https://github.com/user-attachments/assets/c1b23f68-d4cb-434a-ab5a-30e3da07cc7c" />
+   <img width="862" height="220" alt="imagem" src="https://github.com/user-attachments/assets/8ab5c5c7-c5d0-4fb2-83fd-e2547d118a23" />
 
-3. **Criar pen bootável com o balenaEtcher**  
-  <img width="1018" height="466" alt="imagem" src="https://github.com/user-attachments/assets/229e2a06-69bc-4507-9e8d-ba2226a68bdc" />
+3. **Criar pen bootável com o balenaEtcher**
+   <img width="1018" height="466" alt="imagem" src="https://github.com/user-attachments/assets/229e2a06-69bc-4507-9e8d-ba2226a68bdc" />
 
-
-4. **Instalação**  
+5. **Instalação**  
    <img width="1919" height="786" alt="imagem" src="https://github.com/user-attachments/assets/36978951-185b-47dd-89a6-d2fbfed64795" />
+
+#### Instalação e Configuração do Tailscale em LXC container mode
+
+1. **Adicionar Debian 12 ao template de containers**
+   <img width="1919" height="771" alt="imagem" src="https://github.com/user-attachments/assets/50a2d43d-9fb2-46d0-9878-68a49f6ca05e" />
+2. **Download do OS**
+   <img width="1013" height="319" alt="imagem" src="https://github.com/user-attachments/assets/4453ad49-7694-4996-8917-94a5f6c1cf3c" />
+  
 
 
 ---
