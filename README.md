@@ -71,6 +71,7 @@ Criar um ambiente de homelab no Proxmox VE, utilizando o sistema como host princ
    <img width="786" height="462" alt="imagem" src="https://github.com/user-attachments/assets/3fa7f353-aa6d-4026-a389-e1accfa164a2" />
    <img width="795" height="471" alt="imagem" src="https://github.com/user-attachments/assets/1112018d-655a-4c8b-b8fe-8fed1921a108" />
    <img width="634" height="169" alt="imagem" src="https://github.com/user-attachments/assets/70d8e401-50c4-4484-b4c7-4cf4c89d4e69" />
+   <img width="657" height="533" alt="imagem" src="https://github.com/user-attachments/assets/8fc2a6c2-9616-44be-9f69-3143dc3ed67d" />
 
 
 ---
