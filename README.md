@@ -59,7 +59,7 @@ Criar um ambiente de homelab no Proxmox VE, utilizando o sistema como host princ
 
 #### Instalação e Configuração do Pi-Hole
 
-1. Criar container LXC no Proxmox
+1. Criar o container LXC no Proxmox
    <img width="906" height="679" alt="imagem" src="https://github.com/user-attachments/assets/a2b9e2c5-a184-47d3-a1d9-1ac275538736" />
    <img width="913" height="682" alt="imagem" src="https://github.com/user-attachments/assets/cc45efbc-6d63-4f0c-99e0-b4f528cd8ba1" />
    <img width="913" height="672" alt="imagem" src="https://github.com/user-attachments/assets/447fe9e5-3946-41ae-827e-6b3c0ce9fbef" />
@@ -72,6 +72,14 @@ Criar um ambiente de homelab no Proxmox VE, utilizando o sistema como host princ
    <img width="795" height="471" alt="imagem" src="https://github.com/user-attachments/assets/1112018d-655a-4c8b-b8fe-8fed1921a108" />
    <img width="634" height="169" alt="imagem" src="https://github.com/user-attachments/assets/70d8e401-50c4-4484-b4c7-4cf4c89d4e69" />
    <img width="657" height="533" alt="imagem" src="https://github.com/user-attachments/assets/8fc2a6c2-9616-44be-9f69-3143dc3ed67d" />
+
+#### Instalação e Configuração do NextCloud
+
+1. Criar o container LXC no Proxmox
+   <img width="909" height="695" alt="imagem" src="https://github.com/user-attachments/assets/1dbbacd9-5d73-4c5b-9776-796115c35be1" />
+   <img width="917" height="700" alt="imagem" src="https://github.com/user-attachments/assets/5a6ee8ac-7d7d-4b71-abc2-6eb0566fcf6d" />
+   <img width="922" height="695" alt="imagem" src="https://github.com/user-attachments/assets/9014c362-afcb-433d-931f-31d7add85cd5" />
+
 
 
 ---
