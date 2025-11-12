@@ -57,6 +57,17 @@ Criar um ambiente de homelab no Proxmox VE, utilizando o sistema como host princ
    <img width="1336" height="96" alt="imagem" src="https://github.com/user-attachments/assets/5ce3d0b1-5937-4a86-a09a-09cbb6af8a50" />
    <img width="658" height="547" alt="imagem" src="https://github.com/user-attachments/assets/cd8d9fe2-7f38-47f1-922d-8e828d4c7bce" />
 
+#### Instalação e Configuração do Pi-Hole
+
+1. Criar container LXC no Proxmox
+   <img width="906" height="679" alt="imagem" src="https://github.com/user-attachments/assets/a2b9e2c5-a184-47d3-a1d9-1ac275538736" />
+   <img width="913" height="682" alt="imagem" src="https://github.com/user-attachments/assets/cc45efbc-6d63-4f0c-99e0-b4f528cd8ba1" />
+   <img width="913" height="672" alt="imagem" src="https://github.com/user-attachments/assets/447fe9e5-3946-41ae-827e-6b3c0ce9fbef" />
+   <img width="1001" height="486" alt="imagem" src="https://github.com/user-attachments/assets/99423856-c89d-46b4-a9ea-18009c3cc943" />
+
+   
+
+
 
 ---
 
