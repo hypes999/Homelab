@@ -82,6 +82,10 @@ Criar um ambiente de homelab no Proxmox VE, utilizando o sistema como host princ
    <img width="1018" height="472" alt="imagem" src="https://github.com/user-attachments/assets/bd03dd56-144c-415e-b63c-19b16aa723c0" />
 2. Configuração da base de dados
    <img width="967" height="574" alt="imagem" src="https://github.com/user-attachments/assets/11206901-331d-4791-b73b-bbc56ff2e81b" />
+3. Instalação do NextCloud
+   <img width="1276" height="320" alt="imagem" src="https://github.com/user-attachments/assets/9216dee3-7459-4299-b98a-c5fff5508ba8" />
+   <img width="1338" height="778" alt="imagem" src="https://github.com/user-attachments/assets/e2b0783e-0530-4690-8e64-4321bf3cad7a" />
+   <img width="1090" height="98" alt="imagem" src="https://github.com/user-attachments/assets/2236c315-0355-4b11-a70d-88d038ab56b5" />
 
 
 
