@@ -73,6 +73,10 @@ Criar um ambiente de homelab no Proxmox VE, utilizando o sistema como host princ
    <img width="634" height="169" alt="imagem" src="https://github.com/user-attachments/assets/70d8e401-50c4-4484-b4c7-4cf4c89d4e69" />
    <img width="657" height="533" alt="imagem" src="https://github.com/user-attachments/assets/8fc2a6c2-9616-44be-9f69-3143dc3ed67d" />
 
+3. Testes e Resultados
+   <img width="1561" height="926" alt="imagem" src="https://github.com/user-attachments/assets/2aedc7a9-e732-4775-bee7-f4be242ded02" />
+   <img width="486" height="517" alt="imagem" src="https://github.com/user-attachments/assets/ffd7df4d-1178-491a-a135-78a041a4466f" />
+
 #### Instalação e Configuração do NextCloud
 
 1. Criar o container LXC no Proxmox
