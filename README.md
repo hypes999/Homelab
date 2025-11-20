@@ -79,18 +79,13 @@ Criar um ambiente de homelab no Proxmox VE, utilizando o sistema como host princ
 
 #### Instalação e Configuração do NextCloud
 
-1. Criar o container LXC no Proxmox
-   <img width="909" height="695" alt="imagem" src="https://github.com/user-attachments/assets/1dbbacd9-5d73-4c5b-9776-796115c35be1" />
-   <img width="917" height="700" alt="imagem" src="https://github.com/user-attachments/assets/5a6ee8ac-7d7d-4b71-abc2-6eb0566fcf6d" />
-   <img width="922" height="695" alt="imagem" src="https://github.com/user-attachments/assets/9014c362-afcb-433d-931f-31d7add85cd5" />
-   <img width="1018" height="472" alt="imagem" src="https://github.com/user-attachments/assets/bd03dd56-144c-415e-b63c-19b16aa723c0" />
-2. Configuração da base de dados
-   <img width="967" height="574" alt="imagem" src="https://github.com/user-attachments/assets/11206901-331d-4791-b73b-bbc56ff2e81b" />
-3. Instalação do NextCloud
-   <img width="1276" height="320" alt="imagem" src="https://github.com/user-attachments/assets/9216dee3-7459-4299-b98a-c5fff5508ba8" />
-   <img width="1338" height="778" alt="imagem" src="https://github.com/user-attachments/assets/e2b0783e-0530-4690-8e64-4321bf3cad7a" />
-   <img width="1090" height="98" alt="imagem" src="https://github.com/user-attachments/assets/2236c315-0355-4b11-a70d-88d038ab56b5" />
-   <img width="305" height="876" alt="imagem" src="https://github.com/user-attachments/assets/77d326f8-b537-4d05-b778-4f72345bcfb4" />
+1. Instalação via Proxmox VE Scripts
+   <img width="1916" height="965" alt="imagem" src="https://github.com/user-attachments/assets/e13c917e-b66a-4a6d-93a7-7c8cd65bfaa3" />
+com este comando: bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/ct/nextcloudpi.sh)"
+
+2. Nexcloud
+   <img width="1919" height="489" alt="imagem" src="https://github.com/user-attachments/assets/7c6e74e7-6f7c-42ae-b84e-adf9a1b2b356" />
+   <img width="1918" height="897" alt="imagem" src="https://github.com/user-attachments/assets/c30b59d8-0776-438d-9f96-baaf5fd5f057" />
 
 
 ---
