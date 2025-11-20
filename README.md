@@ -120,6 +120,11 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
 
 ---
 
+## Instalação do Nginx Proxy Manager
+
+
+
+---
 
 ## ⚙️ Execução
 
