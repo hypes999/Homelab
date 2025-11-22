@@ -125,6 +125,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
 1. Instalação e Configuração do Docker Container
    <img width="1462" height="671" alt="imagem" src="https://github.com/user-attachments/assets/622745bc-d7b6-45f9-961e-50f2b6365cca" />
    <img width="851" height="374" alt="imagem" src="https://github.com/user-attachments/assets/474aa205-2cf4-43d5-a555-7fb33159a202" />
+   <img width="1919" height="967" alt="imagem" src="https://github.com/user-attachments/assets/18bc649f-f25d-48ae-9b65-73423f9f5a4f" />
 
 
 ---
