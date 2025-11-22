@@ -122,6 +122,9 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
 
 ## Instalação do Nginx Proxy Manager
 
+1. Instalação e Configuração do Docker Container
+   <img width="1462" height="671" alt="imagem" src="https://github.com/user-attachments/assets/622745bc-d7b6-45f9-961e-50f2b6365cca" />
+   <img width="851" height="374" alt="imagem" src="https://github.com/user-attachments/assets/474aa205-2cf4-43d5-a555-7fb33159a202" />
 
 
 ---
