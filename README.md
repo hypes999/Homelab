@@ -131,6 +131,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
 
 1. Instalação e Configuração do LXC com Script automático
    <img width="1919" height="826" alt="imagem" src="https://github.com/user-attachments/assets/38b1ca4d-472f-4507-ae48-a2eea0916280" />
+   <img width="1919" height="931" alt="imagem" src="https://github.com/user-attachments/assets/b651f0e1-b1d7-457a-8121-67f2e8fdfa95" />
 
 
 
