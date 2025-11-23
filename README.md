@@ -123,10 +123,9 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
 ## Instalação do Nginx Proxy Manager
 
 1. Instalação e Configuração do Docker Container
-   <img width="1462" height="671" alt="imagem" src="https://github.com/user-attachments/assets/622745bc-d7b6-45f9-961e-50f2b6365cca" />
-   <img width="851" height="374" alt="imagem" src="https://github.com/user-attachments/assets/474aa205-2cf4-43d5-a555-7fb33159a202" />
-   <img width="1919" height="967" alt="imagem" src="https://github.com/user-attachments/assets/18bc649f-f25d-48ae-9b65-73423f9f5a4f" />
-
+   <img width="1919" height="788" alt="imagem" src="https://github.com/user-attachments/assets/b15acff4-72ee-4c7e-b226-28b1b7e9f0b8" />
+   <img width="1919" height="972" alt="imagem" src="https://github.com/user-attachments/assets/64caab32-cc3d-427f-85de-92c6fc90dd3d" />
+   
 ## Instalação do Vaultwarden
 
 1. Instalação e Configuração do LXC com Script automático
