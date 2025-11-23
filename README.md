@@ -132,6 +132,11 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
    <img width="1919" height="826" alt="imagem" src="https://github.com/user-attachments/assets/38b1ca4d-472f-4507-ae48-a2eea0916280" />
    <img width="1919" height="931" alt="imagem" src="https://github.com/user-attachments/assets/b651f0e1-b1d7-457a-8121-67f2e8fdfa95" />
 
+## Instalação do QbitTorrent
+
+1. Instalação e Configuração do LXC com Script automático
+   <img width="1919" height="782" alt="imagem" src="https://github.com/user-attachments/assets/c64cfc1b-da8f-4846-aff6-b0559759ec14" />
+   <img width="1919" height="945" alt="imagem" src="https://github.com/user-attachments/assets/597b059c-3f5f-47bf-aec2-888bffc9a0c6" />
 
 
 ---
