@@ -138,6 +138,18 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
    <img width="1919" height="782" alt="imagem" src="https://github.com/user-attachments/assets/c64cfc1b-da8f-4846-aff6-b0559759ec14" />
    <img width="1919" height="945" alt="imagem" src="https://github.com/user-attachments/assets/597b059c-3f5f-47bf-aec2-888bffc9a0c6" />
 
+## Instalação do Wordpress
+
+1. Instalação e Configuração do LXC com Script automático
+   <img width="1919" height="810" alt="imagem" src="https://github.com/user-attachments/assets/96433aa8-c531-427b-a022-856593e8e526" />
+
+
+## Instalação do Actual Budget
+
+1. Instalação e Configuração do LXC com Script automático
+   <img width="1919" height="791" alt="imagem" src="https://github.com/user-attachments/assets/ebc643b8-66ba-4758-a3a1-b6667a3e3d5f" />
+
+
 
 ---
 
