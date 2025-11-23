@@ -127,6 +127,11 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
    <img width="851" height="374" alt="imagem" src="https://github.com/user-attachments/assets/474aa205-2cf4-43d5-a555-7fb33159a202" />
    <img width="1919" height="967" alt="imagem" src="https://github.com/user-attachments/assets/18bc649f-f25d-48ae-9b65-73423f9f5a4f" />
 
+## Instalação do Vaultwarden
+
+1. Instalação e Configuração do LXC com Script automático
+   <img width="1919" height="866" alt="imagem" src="https://github.com/user-attachments/assets/b276f5dc-ca3d-45b9-b327-fdc55db7b2b2" />
+
 
 ---
 
