@@ -130,7 +130,8 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
 ## Instalação do Vaultwarden
 
 1. Instalação e Configuração do LXC com Script automático
-   <img width="1919" height="866" alt="imagem" src="https://github.com/user-attachments/assets/b276f5dc-ca3d-45b9-b327-fdc55db7b2b2" />
+   <img width="1919" height="826" alt="imagem" src="https://github.com/user-attachments/assets/38b1ca4d-472f-4507-ae48-a2eea0916280" />
+
 
 
 ---
