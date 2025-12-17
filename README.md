@@ -155,38 +155,6 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
    <img width="1919" height="775" alt="imagem" src="https://github.com/user-attachments/assets/ec672e02-c5f6-4108-9d88-43b0210dd3bf" />
 
 
----
-
-## ⚙️ Execução
-
-### Instalação do Hipervisor
-
-Instalar VMware Workstation Player.
-
-### Importar a Máquina
-
-Préviamente já criada e configurada.
-
-![Importar VM](https://github.com/user-attachments/assets/4df5027c-61b4-443f-9896-fe961bb1524e)
-
-- Definir **Bridge** para acesso direto na LAN
-
-![Configuração Bridge](https://github.com/user-attachments/assets/324c7842-9fca-41a6-83db-ae1dc641568b)
-
-### Testes
-
-- Arrancar VM Windows
-- Verificar IPs  
-  ![Verificar IP](https://github.com/user-attachments/assets/86ba814b-a3e9-41e2-879b-4f77b3080ff2)
-
-- Start dos serviços essenciais: Apache e MySQL  
-  ![Apache e MySQL](https://github.com/user-attachments/assets/a4563017-d901-41d1-a835-4da176d39cb5)
-
-- Verificar Cloudflare  
-  ![Cloudflare](https://github.com/user-attachments/assets/cfd34483-5dd5-472a-ab77-f1124294e8f6)
-
----
-
 ## Resultados
 
 - VM Windows funcional no host Ubuntu
