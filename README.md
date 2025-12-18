@@ -89,8 +89,11 @@ O Glance é utilizado como ponto central de acesso a todos os serviços internos
 ### Directory Structure
 
 /mnt/pve/media/
+
 ├── downloads/
+
 ├── movies/
+
 └── series/
 
 ### Planned
