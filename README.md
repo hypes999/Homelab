@@ -34,13 +34,7 @@ Todos os serviços críticos utilizam IPs fixos, evitando dependência de DHCP d
 
 ## Logical Architecture
 
-[ Router / Gateway ]
-|
-[ Proxmox VE ]
-|
-├── Infra Services
-├── App Services
-└── Media
+<img width="4134" height="3412" alt="imagem" src="https://github.com/user-attachments/assets/e723797b-1d7f-4604-97a0-b74f124902d5" />
 
 ## Services Inventory
 
