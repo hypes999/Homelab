@@ -111,25 +111,26 @@ Alguns workloads são executados fora do homelab local, usando **Oracle Free Tie
 ## Technical Decisions (Why)
 
 - **LXC em vez de VM**: menor overhead, melhor densidade
-- **Glance em vez de Heimdall**: config declarativa e simples
-- **ActualBudget**: controlo financeiro sem integração bancária
-- **Oracle Free Tier**: workloads externos sem custo
-- **IPs fixos**: previsibilidade e debug mais fácil
+- **Cloudflare Tunnel**: zero exposição direta
+- **Wazuh**: SIEM open-source com forte relevância profissional
+- **Tailscale**: acesso remoto seguro sem abrir portas
+- **Separação ataque/defesa**: Kali isolado para geração de eventos
 
 ## Roadmap
 
-- Domínio próprio
-- HTTPS com Nginx Proxy Manager
-- VPN gateway dedicado
-- Media automation refinada
-- Backups automatizados
-- Observabilidade avançada
-- LLM Council em produção (Oracle)
+- Deploy de Suricata (IDS)
+- Centralização avançada de logs
+- Hardening adicional (auditd, fail2ban)
+- Active Response tuning no Wazuh
+- Simulação documentada de incidentes completos
+- Relatórios SOC versionados no repositório
 
 ## Purpose
-
-Este homelab representa experiência prática real, ainda que fora de contexto profissional formal.
+Este homelab representa um ambiente técnico funcional orientado para:
+- Segurança defensiva
+- Operação de SIEM
+- Simulação realista de incidentes
+- Construção de experiência prática relevante para funções SOC / Blue Team
 
 Cada serviço foi instalado, configurado, testado e depurado manualmente.
-
-O foco é aprendizagem profunda, não apenas “ter serviços a correr”.
+O foco é capacidade operacional real, não apenas deploy superficial de serviços.
