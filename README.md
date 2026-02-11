@@ -22,13 +22,13 @@ Todo o ambiente foi desenhado com preocupações reais de:
 ## Base Infrastructure
 
 - **Hypervisor**: Proxmox VE
-- **Virtualization**: LXC (unprivileged)
+- **Virtualization**: LXC (unprivileged) + VM (Kali Linux – attack lab)
 - **Networking**: Linux bridge (vmbr0)
 - **Subnet**: 192.168.0.0/24
 - **Gateway**: 192.168.0.1
-- **DNS**: Pi-hole
-- **Dashboard**: Glance
-- **Reverse Proxy**: Nginx Proxy Manager (preparado para HTTPS futuro)
+- **DNS**: Pi-hole (192.168.0.30)
+- **Public Exposure**: Cloudflare Tunnel (sem portas abertas)
+- **Remote Access**: Tailscale (overlay VPN)
 
 Todos os serviços críticos utilizam IPs fixos, evitando dependência de DHCP dinâmico.
 
