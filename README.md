@@ -13,11 +13,11 @@ O objetivo principal é:
 
 Todo o ambiente foi desenhado com preocupações reais de:
 
-- Isolamento
-- Gestão de recursos
-- Troubleshooting
-- Escalabilidade
-- Segurança básica
+- Isolamento lógico
+- Minimização de superfície de ataque
+- Zero port-forwarding (CGNAT-safe)
+- Logging centralizado
+- Evolução incremental para arquitetura SOC-like
 
 ## Base Infrastructure
 
