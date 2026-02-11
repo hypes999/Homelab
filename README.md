@@ -39,21 +39,16 @@ Todos os serviços críticos utilizam IPs fixos, evitando dependência de DHCP d
 
 ## Services Inventory
 
-| Service              | CT ID | IP Address     | Port(s) | Description             |
-|----------------------|-------|----------------|---------|-------------------------|
-| Proxmox VE Host      | -     | 192.168.0.20   | 8006    | Hypervisor              |
-| Pi-hole              | 100   | 192.168.0.30   | 80      | DNS / Ad blocking       |
-| Nextcloud            | 101   | 192.168.0.40   | 80      | Personal cloud          |
-| qBittorrent          | 102   | 192.168.0.75   | 8090    | Downloads               |
-| Vaultwarden          | 103   | 192.168.0.70   | 8000    | Password manager        |
-| Nginx Proxy Manager  | 104   | 192.168.0.65   | 81      | Reverse proxy           |
-| WordPress            | 105   | 192.168.0.100  | 80      | Website                 |
-| ActualBudget         | 106   | 192.168.0.60   | 5006    | Personal finance        |
-| Glance               | 107   | 192.168.0.41   | 8080    | Dashboard               |
-| Ghostfolio           | 108   | 192.168.0.43   | 3333    | Investment tracking     |
-| Uptime Kuma          | 109   | 192.168.0.45   | 3001    | Monitoring              |
-| Jellyfin             | 110   | 192.168.0.110  | 8096    | Media server            |
-| Tailscale            | 1000  | 192.168.0.25   | —       | VPN mesh                |
+| Service     | CT ID | IP Address     | Description                                       |
+| ----------- | ----- | -------------- | ------------------------------------------------- |
+| Pi-hole     | 100   | 192.168.0.30   | DNS filtering / internal resolver                 |
+| NextcloudPi | 101   | 192.168.0.40   | Self-hosted cloud                                 |
+| Wazuh       | 102   | 192.168.0.200  | SIEM / Security monitoring                        |
+| WordPress   | 105   | 192.168.0.100  | Public-facing application (via Cloudflare Tunnel) |
+| cloudflared | 106   | 192.168.0.13   | Cloudflare Tunnel connector                       |
+| Tailscale   | 1000  | 192.168.0.25   | VPN mesh node                                     |
+|             |       | 100.111.67.123 | Tailscale interface (tailscale0)                  |
+
 
 ## Networking & IP Management
 
