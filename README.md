@@ -34,7 +34,8 @@ Todos os serviços críticos utilizam IPs fixos, evitando dependência de DHCP d
 
 ## Logical Architecture
 
-<img width="4134" height="3412" alt="imagem" src="https://github.com/user-attachments/assets/84da9afc-6d39-48d5-a098-abac0b820385" />
+<img width="933" height="599" alt="diagram-export-11-02-2026-11_30_31" src="https://github.com/user-attachments/assets/a75ad7fd-866d-439f-aa46-6b84eef0f144" />
+
 
 ## Services Inventory
 
