@@ -36,7 +36,6 @@ Todos os serviços críticos utilizam IPs fixos, evitando dependência de DHCP d
 
 <img width="4134" height="3412" alt="imagem" src="https://github.com/user-attachments/assets/84da9afc-6d39-48d5-a098-abac0b820385" />
 
-
 ## Services Inventory
 
 | Service     | CT ID | IP Address     | Description                                       |
@@ -54,56 +53,31 @@ Todos os serviços críticos utilizam IPs fixos, evitando dependência de DHCP d
 | ---------- | ------------- | --------------------------------------- |
 | Kali Linux | DHCP (bridge) | Offensive simulation / attack scenarios |
 
+## Exposure Model
 
-## Networking & IP Management
+- Nenhuma porta aberta no router
+- Sem port forwarding
+- Exposição pública feita exclusivamente via Cloudflare Tunnel
+- Ambiente compatível com CGNAT
+- Acesso administrativo remoto apenas via Tailscale
 
-- Todos os LXCs críticos usam endereçamento estático
-- DNS centralizado via Pi-hole
-- Gateway único no router
-- Tailscale usado como overlay VPN para acesso remoto seguro
-- Nenhum serviço exposto publicamente sem proxy
+## Security Stack
 
-## Dashboard (Glance)
+### Wazuh (SIEM)
+Instalado em LXC dedicado:
 
-O Glance é utilizado como ponto central de acesso a todos os serviços internos.
+- Log collection
+- File Integrity Monitoring
+- Rootcheck
+- Rule engine
+- Alert correlation
+- MITRE ATT&CK mapping
 
-- Acesso rápido
-- Organização por categorias (Infra, Media, Apps)
-- Configuração em YAML versionada
-
-**Localização**: `/opt/glance/glance.yml`
-
-## Media Stack
-
-### Current Setup
-
-- qBittorrent
-- Jellyfin
-- Media storage montado no host Proxmox
-
-### Directory Structure
-
-/mnt/pve/media/
-
-├── downloads/
-
-├── movies/
-
-└── series/
-
-### Planned
-
-- VPN gateway dedicado para downloads
-- Hardening de tráfego
-- Automação adicional
-
-## Security Considerations
-
-- LXCs unprivileged
-- Sem exposição direta à Internet
-- Acesso remoto apenas via VPN
-- HTTPS preparado mas dependente de domínio
-- Separação clara entre serviços
+**Agents planeados / em expansão para**:
+- WordPress
+- Nextcloud
+- Proxmox host
+- Kali
 
 ## External Infrastructure – Oracle Free Tier
 
