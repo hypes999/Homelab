@@ -47,8 +47,6 @@ Todos os serviços críticos utilizam IPs fixos, evitando dependência de DHCP d
 | WordPress   | 105   | 192.168.0.100  | Public-facing application (via Cloudflare Tunnel) |
 | cloudflared | 106   | 192.168.0.13   | Cloudflare Tunnel connector                       |
 | Tailscale   | 1000  | 192.168.0.25   | VPN mesh node                                     |
-|             |       | 100.111.67.123 | Tailscale interface (tailscale0)                  |
-
 
 ## Networking & IP Management
 
