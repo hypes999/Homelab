@@ -48,6 +48,13 @@ Todos os serviços críticos utilizam IPs fixos, evitando dependência de DHCP d
 | cloudflared | 106   | 192.168.0.13   | Cloudflare Tunnel connector                       |
 | Tailscale   | 1000  | 192.168.0.25   | VPN mesh node                                     |
 
+## Virtual Machines
+
+| VM         | Network       | Purpose                                 |
+| ---------- | ------------- | --------------------------------------- |
+| Kali Linux | DHCP (bridge) | Offensive simulation / attack scenarios |
+
+
 ## Networking & IP Management
 
 - Todos os LXCs críticos usam endereçamento estático
