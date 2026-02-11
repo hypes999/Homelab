@@ -19,6 +19,22 @@ Todo o ambiente foi desenhado com preocupações reais de:
 - Logging centralizado
 - Evolução incremental para arquitetura SOC-like
 
+## Attack & Detection Lab
+O homelab serve como ambiente controlado para:
+
+- Brute force contra WordPress
+- Upload de webshell
+- Persistence (cron / SSH keys)
+- Simulação de privilege escalation
+
+Objetivo:
+
+- Analisar logs
+- Correlacionar eventos no Wazuh
+- Criar timeline de incidente
+- Mapear para MITRE ATT&CK
+- Produzir relatório técnico estilo SOC
+
 ## Base Infrastructure
 
 - **Hypervisor**: Proxmox VE
